@@ -2,7 +2,7 @@ Project Overview:
 
 This project showcases a fully responsive Airbnb Clone Website built to replicate the core functionality and design of the popular online rental platform Airbnb. The application allows users to browse, search, and book vacation stays while property owners can list and manage their accommodations seamlessly. It demonstrates front-end development, backend integration, and database connectivity to deliver a complete full-stack web application experience.
 
-Key Features
+Key Features:
 
   Property Listings: Users can view detailed property information, including price, location, photos, and amenities.
   
